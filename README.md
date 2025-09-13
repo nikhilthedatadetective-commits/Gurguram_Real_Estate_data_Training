@@ -61,14 +61,13 @@ Multiple ML models and encoding strategies were tested to identify the most accu
 | Encoding Strategy | Best Model        | R² Score | MAE   |  
 |-------------------|------------------|----------|-------|  
 | Ordinal Encoding  | XGBoost          | 0.889    | 0.50  |  
-| One-Hot Encoding  | XGBoost          | 0.896    | 0.49  |  
+| One-Hot Encoding  | Extra Trees      | 0.896    | 0.46  |  
 | PCA + One-Hot     | Random Forest    | 0.763    | 0.64  |  
-| Target Encoding   | XGBoost (best)   | **0.905** | **0.44** |  
+| Target Encoding   |  Random Forest   | **0.905**| **0.44** |  
 
 ✅ Final model selected: **Random Forest Regressor (with GridSearchCV tuning)**  
 
 ---
 ## Thank You
 
-##  Thank You  
 
