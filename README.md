@@ -5,7 +5,7 @@ This repository focuses on **data preprocessing, feature engineering, explorator
 The dataset was collected via **web scraping from 99acres.com** for both **flats** and **houses**, cleaned, merged, and transformed into a structured format.  
 Multiple ML models and encoding strategies were tested to identify the most accurate price prediction model.  
 
-👉 The **deployment** part of this project is available in a separate repository: [Gurguram_Real_Estate](#).  
+👉 The **deployment** part of this project is available in a separate repository: [https://github.com/nikhilthedatadetective-commits/Gurguram_Real_Estate](#).  
 
 ---
 
