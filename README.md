@@ -38,7 +38,7 @@ Multiple ML models and encoding strategies were tested to identify the most accu
    - Linear Regression, Ridge, LASSO, SVR, Decision Tree, Random Forest, Extra Trees, Gradient Boosting, AdaBoost, XGBoost, MLP  
 7. **Model Selection & Comparison**  
    -  **Best Results:**  
-     - **Target Encoding + XGBoost → R²: 0.90, MAE: 0.44**  
+     - **Target Encoding + Random Forest → R²: 0.90, MAE: 0.44**  
      - **Random Forest with Hyperparameter Tuning** chosen as final model  
 8. **Export Artifacts** – Trained model & transformations saved as `.pkl`  
 
